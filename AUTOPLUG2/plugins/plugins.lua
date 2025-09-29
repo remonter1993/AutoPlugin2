@@ -161,7 +161,7 @@ plugins = {
 { name = "NoPspEmuDrm by Kethen", id = "NOPSPEMUDRM_MOD.png", path = "NoPspEmuDrm_kern_mod.skprx", section = "KERNEL", path2 = "NoPspEmuDrm_user_mod.suprx", section2 = "ALL", desc = LANGUAGE["INSTALLP_DESC_NOPSPEMUDRM_MOD"], KEY = "INSTALLP_DESC_NOPSPEMUDRM_MOD",
   crc = 0xa993a427, v = "v2025-07-02", crc2 = 0xC63381AB, version = "0001", link = "https://raw.githubusercontent.com/Kethen/NoPspEmuDrm/refs/heads/main/README.md", },
 { name = "NoPspEmuDrm by Li", id = "NOPSPEMUDRM.png", path = "NoPspEmuDrm_kern.skprx", section = "KERNEL", path2 = "NoPspEmuDrm_user.suprx", section2 = "ALL", desc = LANGUAGE["INSTALLP_DESC_NOPSPEMUDRM"], KEY = "INSTALLP_DESC_NOPSPEMUDRM",
-  crc = 0x27a9b037, v = "v1.05", crc2 = 0xa9242ab6, version = "0007", link = "https://raw.githubusercontent.com/LiEnby/NoPspEmuDrm/main/README.md", },
+  crc = 0x7EF89819, v = "v1.06", crc2 = 0x6500B991, version = "0008", link = "https://raw.githubusercontent.com/LiEnby/NoPspEmuDrm/main/README.md", },
 { name = "DSMotion by OperationNT414C", id = "DSMOTION.png", path = "dsmotion.skprx", section = "KERNEL", path2 = "dsmotion.suprx", section2 = "ALL", desc = LANGUAGE["INSTALLP_DESC_DSMOTION"], KEY = "INSTALLP_DESC_DSMOTION",
   crc = 0xe869fae2, v = "v1.2", crc2 = 0xa398acb7, version = "0001", link = "https://raw.githubusercontent.com/OperationNT414C/DSMotion/master/README.md", },
 { name = "MiniVitaTV by TheOfficialFloW", id = "MINIVITATV.png", path = "minivitatv.skprx", section = "KERNEL", path2 = "ds3.skprx", section2 = "KERNEL", desc = LANGUAGE["INSTALLP_DESC_MINIVITATV"], KEY = "INSTALLP_DESC_MINIVITATV",
